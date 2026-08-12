@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Trading Platform
 
 **CodeAlpha Java Programming Internship — Task 2**
@@ -135,3 +136,6 @@ Starting capital is **₹100,000**. Change `STARTING_CAPITAL` in `Main.java` to 
 ---
 
 *Submitted for the CodeAlpha Java Programming Internship.*
+=======
+# CodeAlpha_StockTradingPlatform
+>>>>>>> origin/main

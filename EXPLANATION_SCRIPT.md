@@ -156,26 +156,6 @@ A: Limit orders instead of only market orders, a price history chart in the cons
 brokerage fees on each trade, and multiple user accounts — `User` is already a separate
 class specifically so that last one wouldn't require touching `Portfolio`.
 
-
-
-
-
-
-> **[Exit and restart]**
->
-> Everything saves — cash, holdings, trade history and prices — so the session
-> resumes exactly where it left off.
->
-> Code's on GitHub, link below. Thanks for watching."
-
-
-
-
-
-
-
----
-
 ## PART 5 — If a Demo Goes Wrong
 
 - **"You cannot afford even one share"** → sell something first, or pick a cheaper stock like `ZOMT`.
